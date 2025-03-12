@@ -1,3 +1,24 @@
+# Ignore environment variables and keys
+keys.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if you have one)
+venv/
+env/
+
+# Ignore IDE/editor specific files (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Ignore Jupyter Notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# Ignore log files (if any)
+*.log
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
