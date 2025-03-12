@@ -34,7 +34,7 @@ This script interacts with the Twitter API to authenticate a user and like a twe
 ## Usage
 1. Run the script with a Tweet ID:
    ```sh
-   python twitter_like.py <tweet_id>
+   python twitter_like.py
    ```
 2. The script will authenticate and attempt to like the specified tweet.
 3. Logs will indicate success or any errors encountered.
